@@ -6,6 +6,7 @@ so only `go` is required:
 
 ```
 go get github.com/kofron/trigger_loadtest
+go build github.com/kofron/trigger_loadtest && ./trigger_loadtest
 ```
 
 
